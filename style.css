@@ -1,7 +1,7 @@
 * body {
     padding: 0;
     box-sizing: border-box;
-  background-image: url(./imagenes/FONDO.png);
+  background-image: url(./imagenes/FONDO.jpg);
   background-size: 100%;
    
   }
@@ -80,8 +80,8 @@ padding-top: 2%;
  }
 .almanaque{
   width: 70%;
-  margin-left: 15%;
-  margin-top: -5%;
+  margin-left: 17%;
+  margin-top: -1%;
  
 }
 .flor{
@@ -175,7 +175,7 @@ margin-top: -17%;
   font-family: 'Julius Sans One', sans-serif;
    font-size: 19px;
    color: #3c578d;
-   font-weight: 800;
+   font-weight: 1000;
    margin-top: 15%;
    
 }
@@ -277,8 +277,8 @@ margin-top: -17%;
   text-align: center;
   font-family: 'Julius Sans One', sans-serif;
    font-size: 19px;
-   color: #141414;
-   font-weight: 800;
+   color: #3c578d;
+   font-weight: 1000;
    margin-top: 15%;
    
 }
@@ -295,8 +295,8 @@ margin-top: -17%;
   text-align: center;
   font-family: 'Julius Sans One', sans-serif;
    font-size: 19px;
-   color: #060606;
-   font-weight: 800;
+   color: #3c578d;
+   font-weight: 1000;
  margin-top: 10%;
 }
 .parrafo9{
@@ -312,8 +312,8 @@ margin-top: -17%;
   text-align: center;
   font-family: 'Julius Sans One', sans-serif;
    font-size: 19px;
-   color: #040404;
-   font-weight: 800;
+   color: #3c578d;
+   font-weight: 1000;
  margin-top: 25%;
 }
 .parrafo11{
@@ -331,8 +331,8 @@ margin-top: -17%;
   text-align: center;
   font-family: 'Julius Sans One', sans-serif;
    font-size: 19px;
-   color: #C29150;
-   font-weight: 800;
+   color: #3c578d;
+   font-weight: 1000;
 margin-top: 15%;
 }
 .percha{
@@ -398,9 +398,9 @@ margin-top: 15%;
   margin-left: 28%;
 }
 .florfinal{
-  width: 25%;
-  margin-top: -2%;
-  margin-left: 38%;
+  width: 40%;
+  margin-top: 2%;
+  margin-left: 31%;
 }
 
 
@@ -409,6 +409,12 @@ margin-top: 15%;
   border-radius: 5%;
   margin-top: 10%;
 }
+.carousel-innerdos img{
+  width: 80%;
+  border-radius: 5%;
+  margin-top: 10%;
+}
+
 
 
 
